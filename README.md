@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![Intro](other_files/IROBOT_Images/intro.png)
 
 # IROBOT
@@ -422,3 +423,7 @@ If you discover any external code, files, or assets in this repository that do n
 
 ---
 
+=======
+# vipcourse
+Our project for VIP course
+>>>>>>> 4ebb729245fd27f149f0af4926def1c49d7f42e5
