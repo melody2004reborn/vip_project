@@ -6,16 +6,13 @@ Professional documentation for the **Voltage Vandals** Smart Warehouse Robot Sys
 
 | Document | Description |
 |----------|-------------|
-| [01_project_overview.ipynb](./01_project_overview.ipynb) | Main course documentation: architecture, modules, workflows, and operational guide |
+| [01_project_overview.ipynb (Google Colab)](https://colab.research.google.com/github/melody2004reborn/vip_project/blob/main/docs/01_project_overview.ipynb) | Main course documentation: architecture, modules, workflows, and operational guide |
 
 ## How to read
 
-1. Install Jupyter if needed: `pip install jupyter notebook`
-2. From the repository root:
-   ```bash
-   jupyter notebook docs/01_project_overview.ipynb
-   ```
-   Or open the notebook in VS Code / Cursor with the Jupyter extension.
+**Google Colab (recommended):** [Open the notebook in Colab](https://colab.research.google.com/github/melody2004reborn/vip_project/blob/main/docs/01_project_overview.ipynb)
+
+Or open [`01_project_overview.ipynb`](./01_project_overview.ipynb) locally in VS Code / Cursor with the Jupyter extension.
 
 ## Repository layout (quick reference)
 

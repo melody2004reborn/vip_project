@@ -6,14 +6,9 @@ The project focuses on creating an autonomous warehouse solution capable of inve
 
 📚 **Documentation:** [`docs/`](docs/)
 
-📓 **Jupyter notebook (full technical guide):** [docs/01_project_overview.ipynb](docs/01_project_overview.ipynb)
+📓 **Full technical guide (Google Colab):** [Open in Colab](https://colab.research.google.com/github/melody2004reborn/vip_project/blob/main/docs/01_project_overview.ipynb)
 
-Open locally with [Jupyter](https://jupyter.org/):
-
-```bash
-pip install jupyter notebook
-jupyter notebook docs/01_project_overview.ipynb
-```
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/melody2004reborn/vip_project/blob/main/docs/01_project_overview.ipynb)
 
 The system utilizes TurtleBot3 Burger robots equipped with Raspberry Pi 4 controllers, Pi Camera Module 2 sensors, and LiDAR-based navigation. Using ROS, computer vision, autonomous navigation, and wireless communication, the robots can navigate warehouse environments, identify inventory items, monitor stock levels, and coordinate warehouse tasks efficiently.
 
