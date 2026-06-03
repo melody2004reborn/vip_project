@@ -1,6 +1,6 @@
-## 📌 Overview
+## VOLTAGE VANDALS
 
-**VOLTAGE VANDALS** is a Smart Warehouse Robot System developed as part of the VIP (Vertically Integrated Projects) Course.
+Smart Warehouse Robot System developed as part of the VIP (Vertically Integrated Projects) Course.
 
 The project focuses on creating an autonomous warehouse solution capable of inventory monitoring, inventory scanning, automated restocking operations, dynamic task allocation, real-time inventory updates, and centralized monitoring and control.
 
